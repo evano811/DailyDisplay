@@ -15,7 +15,7 @@ Daily Display is the essential interface for starting your day every morning. Th
 
 ### Hardware Used
 
-Hardware is essential to the development of our product. We run all of our hardware operations through _Arduino Uno_. All wiring will be submitted by _image_ to the [**parts**]() folder
+Hardware is essential to the development of our product. We run all of our hardware operations through _Arduino Uno_. All wiring will be submitted by _image_ to the [**parts**](https://github.com/evano811/DailyDisplay/tree/main/parts) folder
 
 A list of all other parts and their descriptions, usages and other information can be found in the **_parts_** folder.
 

@@ -11,13 +11,32 @@ Group 13's ELE206 Final Project
 
 ### Description 
 
-Daily Display is the essential interface for starting your day every morning. The Display is similar to what you see in personal assistants such as Alexa, but within the capabilities of 
+_DailyDisplay_ is the essential interface for starting your day every morning. The Display is similar to what you see in personal assistants such as Alexa, but within the capabilities of the Arduino Uno, and within the reasonable time frame of ELE206. 
+
+Some features of the _DailyDisplay_ include:
+
+- Weather
+- Temperature
+- Date
+- Time
+- Customizable Messaging
+- Images
+- Drawings
+- Bluetooth Capabilities
+- And more...
+
+The project is currently in **DEV** stage. All updates will be posted to this repository as soon as they are released to the public.
 
 ### Hardware Used
 
-Hardware is essential to the development of our product. We run all of our hardware operations through _Arduino Uno_. All wiring will be submitted by _image_ to the [**parts**](https://github.com/evano811/DailyDisplay/tree/main/parts) folder
+Hardware is essential to the development of our product. We run all of our hardware operations through _Arduino Uno_. All wiring will be submitted by _image_, titled with dates of editing history. Below each image will contain a short description displaying:
 
-A list of all other parts and their descriptions, usages and other information can be found in the **_parts_** folder.
+- Components Used
+- Connections
+- Bugs/Fixes
+- Whats Next
+
+A list of all other parts and their descriptions, usages and other information can be found in the [**_parts_**](https://github.com/evano811/DailyDisplay/tree/main/parts) folder.
 
 ### Software Used
 
@@ -31,12 +50,17 @@ All source code and method information can be found in the  [**_src_**](https://
 
 ### Deadline and Deliverables
 
-Our project have the following deadlines:
+Our project has the following deadlines:
 
 - **PRESENTATION** - _April 22nd/24th_
 - **DEMO** - _April 25th_
 
-Any changes will be updated within an hour of notification.
+The deliverables needed for project submission are:
 
+- .PPTX Presentation
+- Video Demo
+- Live Demo (No physical deliverable)
+- Repository (Optional)
 
+The first two items needed for delivery can be found in the [**_demo_**] folder
 

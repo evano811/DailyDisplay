@@ -62,5 +62,5 @@ The deliverables needed for project submission are:
 - Live Demo (No physical deliverable)
 - Repository (Optional)
 
-The first two items needed for delivery can be found in the [**_demo_**] folder
+The first two items needed for delivery can be found in the [**_demo_**](https://github.com/evano811/DailyDisplay/tree/main/demo) folder
 

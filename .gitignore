@@ -1,0 +1,4 @@
+# Comment to describe the type of files to ignore
+*.log
+node_modules/
+.DS_Store

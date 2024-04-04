@@ -25,7 +25,7 @@ Some features of the _DailyDisplay_ include:
 - Bluetooth Capabilities
 - And more...
 
-The project is currently in **DEV** stage. All updates will be posted to this repository as soon as they are released to the public. Updates will be consistently uploaded, and can be found in the [**_status_**]() folder.
+The project is currently in **DEV** stage. All updates will be posted to this repository as soon as they are released to the public. Updates will be consistently uploaded, and can be found in the [**_status_**](https://github.com/evano811/DailyDisplay/tree/main/status) folder.
 
 ### Hardware Used
 

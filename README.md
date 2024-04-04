@@ -17,5 +17,5 @@ Daily Display is the essential interface for starting your day every morning. Th
 
 ### Software Used
 
-All software will be developed using the Arduino IDE with .ino files. All source code and method information can be found in the [(/src)] folder.
+All software will be developed using the Arduino IDE with .ino files. All source code and method information can be found in the [/src] folder.
 

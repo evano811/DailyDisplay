@@ -15,7 +15,17 @@ Daily Display is the essential interface for starting your day every morning. Th
 
 ### Hardware Used
 
+Hardware is essential to the development of our product. We run all of our hardware operations through _Arduino Uno_. A list of all other parts and their descriptions, usages and other information can be found in the **_parts_** folder.
+
 ### Software Used
 
-All software will be developed using the Arduino IDE with .ino files. All source code and method information can be found in the [/src] folder.
+All software will be developed using the Arduino IDE with .ino files. 
+
+All source code and method information can be found in the  **_src_** folder. 
+
+### Deadline and Deliverables
+
+Our project is due on
+
+
 

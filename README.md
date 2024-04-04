@@ -21,7 +21,7 @@ Hardware is essential to the development of our product. We run all of our hardw
 
 All software will be developed using the Arduino IDE with .ino files. 
 
-All source code and method information can be found in the  **_src_** folder. 
+All source code and method information can be found in the  [**_src_**](https://github.com/evano811/DailyDisplay/tree/main/src) folder. 
 
 ### Deadline and Deliverables
 

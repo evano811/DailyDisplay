@@ -7,7 +7,7 @@
 
 ## April 4 - Meeting 1
 
-- Diagram of Hardware Drawn
+- Diagram of Hardware Drawn [_**here**_](https://github.com/evano811/DailyDisplay/blob/main/status/Apr4-Meeting_Notes.pdf)
 - Pseudocode ideas thrown around, however there is nothing we can currently do without our hardware not being shipped in yet.
 - Idea confirmed with TA, switched from initial 4-8x8 Matrix Display to 20x4 Liquid Crystal Display for easier connections and cleaner presentation.
 - Plan is to have general idea of codes and connections by **April 11th**

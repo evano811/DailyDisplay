@@ -14,6 +14,9 @@
 ## 6 - BTx
 
 ## 7 - Resistor
+- 1 1KOhm Resistor
+- 1 10Kohm Resistor
 
 ## 8 - Jumper Cables
+- Enough to wire LCD, Bluetooth, Thermisistor and Photoresistor
 

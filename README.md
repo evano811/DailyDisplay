@@ -3,9 +3,9 @@ Group 13's ELE206 Final Project
 
 
 ## I. Team Members
-- Evan O'Neill - URI ELE/CSC '26
-- Ryan Tattrie - URI ELE '26
-- Melvin Zongo - URI ELE '26
+- Evan O'Neill 
+- Ryan Tattrie 
+- Melvin Zongo 
 
 ## II. Project Details
 

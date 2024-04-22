@@ -4,18 +4,16 @@
 
 ## 2 - Breadboard
 
-## 3 - 20x4 Liquid Crystal Display
+## 3 - 8x64 FC16 Hardware LED Matrix Display
 
 ## 4 - Thermisistor
 
-## 5 - Potentiometer OR Photoresistor
-- Yet to figure out what is more feasible
+## 5 - Photoresistor
 
-## 6 - BTx
+## 6 - DS1307 Clock 
 
 ## 7 - Resistor
-- 1 1KOhm Resistor
-- 1 10Kohm Resistor
+- 2 10Kohm Resistor
 
 ## 8 - Jumper Cables
 - Enough to wire LCD, Bluetooth, Thermisistor and Photoresistor
